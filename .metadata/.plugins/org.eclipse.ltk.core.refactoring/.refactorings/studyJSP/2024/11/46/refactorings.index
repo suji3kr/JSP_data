@@ -1,0 +1,5 @@
+1731296574986	Move 'lib' to 'webapp'
+1731296581080	Move 'web.xml' to 'lib'
+1731296589492	Delete element
+1731296810177	Move 'NewFile.jsp' to 'webapp'
+1731297106254	Rename resource 'NewFile.jsp'

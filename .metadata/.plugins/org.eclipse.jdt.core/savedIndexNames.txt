@@ -22,7 +22,6 @@ INDEX VERSION 1.132+D:\kmr_data\jsp_data\.metadata\.plugins\org.eclipse.jdt.core
 3700993721.index
 3993841947.index
 670548494.index
-3754403755.index
 701416509.index
 901021574.index
 2731806017.index

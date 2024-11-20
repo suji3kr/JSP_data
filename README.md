@@ -28,18 +28,19 @@ URL이 변경되며, 클라이언트가 새로운 요청을 보냅니다.
 
 ----------------------------
 
+</br></br>
+***1.Forward***
 
 
-1.Forward
-
-- request +  .forward 
+    - request +  .forward 
+![화면 캡처 2024-11-12 163247](https://github.com/user-attachments/assets/0cc660c8-346a-40ca-9c67-b81bd4be5ad5)
 
 
 
 ------------------------------------------------------------------------------------------------------------
-
-2.Redirect
+</br></br>
+***2.Redirect***
 
      -response 주로 쓰임 +request
+![화면 캡처 2024-11-12 163459](https://github.com/user-attachments/assets/0f2f432a-d266-4390-8be9-4918ff9c4b3c)
 
-image.png

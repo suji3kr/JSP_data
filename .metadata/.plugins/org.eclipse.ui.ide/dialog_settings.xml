@@ -31,6 +31,7 @@
 		<item key="WizardProjectsImportPage.STORE_CLOSE_CREATED_PROJECTS_ID" value="false"/>
 		<item key="WizardProjectsImportPage.STORE_HIDE_CONFLICTING_PROJECTS_ID" value="false"/>
 		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="D:\kmr_data\jsp_data\test_jsp_data\cookiessession"/>
 			<item value="D:\kmr_data\java_data\Java_Static"/>
 		</list>
 		<list key="WizardProjectsImportPage.STORE_ARCHIVES">

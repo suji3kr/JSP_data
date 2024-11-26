@@ -153,11 +153,16 @@ URL이 변경되며, 클라이언트가 새로운 요청을 보냅니다.
 
 
 </br></br>
-* ### .***정리***
+### ***정리***
 
-request.setAttribute: 요청 범위에서 데이터를 바인딩, 요청이 끝날 때까지 유효. <br>
-session.setAttribute: 세션 범위에서 데이터를 바인딩, 브라우저 세션이 유지되는 동안 유효. <br>
-context.setAttribute: 애플리케이션 범위에서 데이터를 바인딩, 애플리케이션이 종료될 때까지 유효. <br> 
+####
+* ##### request.setAttribute:
+요청 범위에서 데이터를 바인딩, 요청이 끝날 때까지 유효. <br>
+* ##### session.setAttribute: 
+세션 범위에서 데이터를 바인딩, 브라우저 세션이 유지되는 동안 유효. <br>
+* ##### context.setAttribute: 
+애플리케이션 범위에서 데이터를 바인딩, 애플리케이션이 종료될 때까지 유효. <br> 
+<br> 
 각각의 setAttribute는 데이터의 유효 범위(scope)에 차이가 있으므로, 적절한 범위를 선택하여 사용해야 합니다. <br>
 
 
